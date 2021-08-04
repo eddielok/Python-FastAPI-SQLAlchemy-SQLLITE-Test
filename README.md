@@ -40,7 +40,7 @@ INFO:     Application startup complete.
 ```
 
 ## Swagger auto doc
-Check Connection : http://localhost
+Check Connection : http://localhost:8080
 Swagger : 	   http://localhost:8080/docs
 Redoc : 	   http://localhost:8080/redoc
 
